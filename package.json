@@ -1,0 +1,22 @@
+{
+  "name": "training-claude-sdk",
+  "version": "1.0.0",
+  "description": "Playing around with claude SDK",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnaudBuchholz/training-claude-sdk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ArnaudBuchholz/training-claude-sdk/issues"
+  },
+  "homepage": "https://github.com/ArnaudBuchholz/training-claude-sdk#readme",
+  "dependencies": {
+    "@anthropic-ai/claude-agent-sdk": "^0.2.138",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  }
+}
